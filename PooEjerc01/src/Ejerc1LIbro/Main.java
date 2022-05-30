@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Ejerc1LIbro;
 
 import java.util.Scanner;
 
 
 /**
- *
- * @author gaspa
+ *  Hola 
+ * @author Gasparin Laborde
  */
 public class Main {
 
@@ -22,10 +18,9 @@ public class Main {
         Libro L1 = new Libro();
   
       L1.mostrarlibro();
-   
+        System.out.println("");
        L1.toString(); 
         System.out.println(L1);
-      
     }
     
 }
